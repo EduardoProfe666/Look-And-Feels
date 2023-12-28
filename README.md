@@ -13,5 +13,7 @@ ver como se ven los diferentes componentes con ellos
 activos.
 
 <div align="center">
+<b>
 <p color="yellow" >Yanko</p>
+</b>
 </div>
