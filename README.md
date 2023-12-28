@@ -12,8 +12,8 @@ Tanto FlatLaf como JTattoo cuentan con demos para
 ver como se ven los diferentes componentes con ellos
 activos.
 
-<div align="center">
+<div align="center" color="ff00ff">
 <b>
-<p color="yellow" >Yanko</p>
+<p>Yanko</p>
 </b>
 </div>
