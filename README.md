@@ -14,6 +14,6 @@ activos.
 
 <div align="center">
 <b>
-<p style="color:red">Yanko</p>
+<span style="color:red">Yanko</span>
 </b>
 </div>
